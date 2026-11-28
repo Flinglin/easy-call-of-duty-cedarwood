@@ -196,6 +196,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Call of Duty · Updated 2026-11-27 · Shared under the MIT License*
+*Call of Duty · Updated 2026-11-28 · Shared under the MIT License*
 
-<!-- rev 2026-11-27 -->
+<!-- rev 2026-11-28 -->
